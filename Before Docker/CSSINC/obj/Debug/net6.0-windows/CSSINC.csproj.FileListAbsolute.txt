@@ -1,0 +1,62 @@
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\CSSINC.exe
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\CSSINC.deps.json
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\CSSINC.runtimeconfig.json
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\CSSINC.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\CSSINC.pdb
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Api.Gax.Rest.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Translate.v2.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Google.Cloud.Translation.V2.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\TranslationService.dll
+D:\apps\CSSINC\CSSINC\bin\Debug\net6.0-windows\TranslationService.pdb
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.AssemblyReference.cache
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.UI.resources
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.GenerateResource.cache
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.AssemblyInfoInputs.cache
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.AssemblyInfo.cs
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.CoreCompileInputs.cache
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.CopyComplete
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.dll
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\refint\CSSINC.dll
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.pdb
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\CSSINC.genruntimeconfig.cache
+D:\apps\CSSINC\CSSINC\obj\Debug\net6.0-windows\ref\CSSINC.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\CSSINC.exe
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\CSSINC.deps.json
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\CSSINC.runtimeconfig.json
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\CSSINC.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\CSSINC.pdb
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Api.Gax.Rest.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Apis.Translate.v2.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Google.Cloud.Translation.V2.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\TranslationService.dll
+D:\apps\CSSINC\Before Docker\CSSINC\bin\Debug\net6.0-windows\TranslationService.pdb
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.AssemblyReference.cache
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.UI.resources
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.GenerateResource.cache
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.AssemblyInfoInputs.cache
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.AssemblyInfo.cs
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.CoreCompileInputs.cache
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.csproj.CopyComplete
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.dll
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\refint\CSSINC.dll
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.pdb
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\CSSINC.genruntimeconfig.cache
+D:\apps\CSSINC\Before Docker\CSSINC\obj\Debug\net6.0-windows\ref\CSSINC.dll

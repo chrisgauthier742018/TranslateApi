@@ -10,6 +10,9 @@ public partial class UI : Form
 
     private void UI_Load(object sender, EventArgs e)
     {
+        String text = "hello world";
+
+        TranslationService.TextTranslation.translateText(text);
         
     }
     
@@ -26,9 +29,9 @@ public partial class UI : Form
 
     private void Translate_Click(object sender, EventArgs e)
     {
-        String textToBeTranslated;
-        textToBeTranslated = TranslationService.TextTranslation.translateText(inputString.Text);
-        outputString.Text = textToBeTranslated;
+        String text1;
+        text1 = TranslationService.TextTranslation.translateText(inputString.Text);
+        outputString.Text = text1;
         
     }
 }
