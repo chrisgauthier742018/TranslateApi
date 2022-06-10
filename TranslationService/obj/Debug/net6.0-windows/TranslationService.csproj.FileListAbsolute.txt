@@ -1,0 +1,12 @@
+D:\apps\CSSINC\TranslationService\bin\Debug\net6.0-windows\TranslationService.deps.json
+D:\apps\CSSINC\TranslationService\bin\Debug\net6.0-windows\TranslationService.dll
+D:\apps\CSSINC\TranslationService\bin\Debug\net6.0-windows\TranslationService.pdb
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\TranslationService.csproj.AssemblyReference.cache
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\TranslationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\TranslationService.AssemblyInfoInputs.cache
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\TranslationService.AssemblyInfo.cs
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\TranslationService.csproj.CoreCompileInputs.cache
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\TranslationService.dll
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\refint\TranslationService.dll
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\TranslationService.pdb
+D:\apps\CSSINC\TranslationService\obj\Debug\net6.0-windows\ref\TranslationService.dll
